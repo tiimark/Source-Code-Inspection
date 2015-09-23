@@ -52,6 +52,10 @@ class Troco {
 
         protected Troco troco;
 
+        public TrocoIterator(){
+            
+        }
+        
         public TrocoIterator(Troco troco) {
             this.troco = troco;
         }
